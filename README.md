@@ -5,15 +5,16 @@ Computer Science (Cloud Computing) student at Akademia WSB, based in Poland. I b
 ## What I work with
 
 - **Languages:** Python, JavaScript, C++ (Arduino), Kotlin, SQL, Bash, PowerShell
-- **Web and mobile:** React.js, Node.js, Vite, Chart.js, React Native (Expo), Jetpack Compose
-- **Cloud and backend:** Firebase (Realtime Database, Authentication, Cloud Functions, Security Rules, Hosting), Azure (VMs, App Service, Functions, Cosmos DB, Data Factory), AWS basics
+- **Web and mobile:** React.js, Node.js, Express, Flask, Vite, Chart.js, React Native (Expo), Jetpack Compose
+- **Cloud and backend:** Firebase (Realtime Database, Firestore, Authentication, Cloud Functions, Security Rules, Hosting), Azure (VMs, App Service, Functions, Cosmos DB, Data Factory), Netlify Functions (serverless), AWS basics
 - **IoT and embedded:** ESP8266, sensors, relays, I2C
-- **DevOps and testing:** Git and GitHub, GitHub Actions, Docker, Playwright, Vitest, pytest
+- **DevOps and testing:** Git and GitHub, GitHub Actions (CI/CD), Docker, Playwright, Vitest, pytest
 - **Systems and networking:** Linux, Active Directory, Azure AD, Cisco IOS, Packet Tracer, VLANs, OSPF, ACLs
+- **Data and ML:** Pandas, Scikit-learn, Matplotlib
 
 ## Featured project
 
-**[Smart Greenhouse System](https://github.com/Emad-Student/smart-greenhouse-iot)** - my bachelor thesis project.
+**[Smart Greenhouse System](https://github.com/Emad-Abouelsaad/smart-greenhouse-iot)** - my bachelor thesis project.
 An IoT platform that monitors temperature, humidity, soil moisture, light and air quality, and controls a fan, a water pump and LED grow lights, manually or automatically.
 
 - ESP8266 firmware in C++ with offline automation and pump safety limits
@@ -23,10 +24,21 @@ An IoT platform that monitors temperature, humidity, soil moisture, light and ai
 
 ## Other projects
 
+**Cloud**
+- **[Azure App Service CI/CD](https://github.com/Emad-Abouelsaad/azure-app-service-nodejs-deploy):** Node.js REST API deployed to Azure App Service with a GitHub Actions pipeline and passwordless OIDC sign-in
+- **[Flask REST API](https://github.com/Emad-Abouelsaad/flask-rest-api):** Python API ready for PaaS deployment with Gunicorn, health check, pytest tests and GitHub Actions CI
+- **[Serverless function](https://github.com/Emad-Abouelsaad/serverless-netlify-function):** Node.js Netlify Function (AWS Lambda) called from a static web page
+- **[Cloud static website](https://github.com/Emad-Abouelsaad/cloud-static-website):** static site with continuous deployment from GitHub
 - **Azure cloud labs:** IaaS, PaaS and serverless deployments, Cosmos DB, Data Factory pipelines
+
+**Apps and data**
+- **[Study Room Booking App](https://github.com/Emad-Abouelsaad/study-room-booking-app):** Android app in Kotlin and Jetpack Compose with Firebase Authentication, Firestore and real-time room status
+- **[React Native mobile labs](https://github.com/Emad-Abouelsaad/react-native-mobile-labs):** two Expo apps using REST APIs, GPS location, live weather and nearby places
+- **[Titanic survival prediction](https://github.com/Emad-Abouelsaad/titanic-survival-prediction):** Python, Pandas and Scikit-learn, 81% accuracy
+- **[Python programming labs](https://github.com/Emad-Abouelsaad/python-fundamentals-labs):** 48 exercises from data types to functional programming
+
+**Networking**
 - **Corporate network:** two-site enterprise network in Cisco Packet Tracer with VLANs, OSPF, ACLs and a GRE VPN
-- **Titanic survival prediction:** Python, Pandas and Scikit-learn, 81% accuracy ([repo](https://github.com/Emad-Student/titanic-survival-prediction))
-- **Study Room Booking App:** Kotlin, Jetpack Compose and Firebase ([repo](https://github.com/Emad-Student/study-room-booking-app))
 
 ## Certifications
 
