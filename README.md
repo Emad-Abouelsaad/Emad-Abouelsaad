@@ -20,7 +20,7 @@ An IoT platform that monitors temperature, humidity, soil moisture, light and ai
 - ESP8266 firmware in C++ with offline automation and pump safety limits
 - Firebase backend: Realtime Database with security rules, Authentication, scheduled and event-driven Cloud Functions
 - React dashboard with live charts, alerts, history and CSV export
-- 64 automated tests (Vitest, pytest, Playwright), GitHub Actions CI and Docker deployment
+- 65 automated tests (Vitest, pytest, Playwright), GitHub Actions CI (including the firmware build) and Docker deployment
 
 ## Other projects
 
