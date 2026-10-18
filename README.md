@@ -1,18 +1,18 @@
 # Hi, I'm Emad Abouelsaad
 
-Computer Science (Cloud Computing) student at Akademia WSB, based in Poland. I build IoT, cloud and web projects, and I'm looking for IT support and cloud roles in Poland.
+Computer Science (Cloud Computing) student at Akademia WSB, based in Poland. I build IoT, cloud, mobile and web projects, and I'm looking for IT support and cloud roles in Poland.
 
 ## What I work with
 
-- **Languages:** Python, JavaScript, C++ (Arduino), Kotlin, SQL, Bash, PowerShell
-- **Web and mobile:** React.js, Node.js, Express, Flask, Vite, Chart.js, React Native (Expo), Jetpack Compose
-- **Cloud and backend:** Firebase (Realtime Database, Firestore, Authentication, Cloud Functions, Security Rules, Hosting), Azure (VMs, App Service, Functions, Cosmos DB, Data Factory), Netlify Functions (serverless), AWS basics
+- **Languages:** Python, JavaScript, TypeScript, Dart, C++ (Arduino), Kotlin, SQL, Bash, PowerShell
+- **Web and mobile:** React.js, Node.js, Express, Flask, Vite, Chart.js, Flutter, React Native (Expo), Jetpack Compose
+- **Cloud and backend:** Firebase (Firestore, Realtime Database, Authentication, Cloud Functions, Security Rules, Emulator Suite, Hosting), Azure (VMs, App Service, Functions, Cosmos DB, Data Factory), Netlify Functions (serverless), AWS basics
 - **IoT and embedded:** ESP8266, sensors, relays, I2C
-- **DevOps and testing:** Git and GitHub, GitHub Actions (CI/CD), Docker, Playwright, Vitest, pytest
+- **DevOps and testing:** Git and GitHub, GitHub Actions (CI/CD), Docker, Firebase Emulator Suite, Security Rules tests, Flutter tests, Playwright, Vitest, pytest
 - **Systems and networking:** Linux, Active Directory, Azure AD, Cisco IOS, Packet Tracer, VLANs, OSPF, ACLs
 - **Data and ML:** Pandas, Scikit-learn, Matplotlib
 
-## Featured project
+## Featured projects
 
 **[Smart Greenhouse System](https://github.com/Emad-Abouelsaad/smart-greenhouse-iot)** - my bachelor thesis project.
 An IoT platform that monitors temperature, humidity, soil moisture, light and air quality, and controls a fan, a water pump and LED grow lights, manually or automatically.
@@ -21,6 +21,14 @@ An IoT platform that monitors temperature, humidity, soil moisture, light and ai
 - Firebase backend: Realtime Database with security rules, Authentication, scheduled and event-driven Cloud Functions
 - React dashboard with live charts, alerts, history and CSV export
 - 65 automated tests (Vitest, pytest, Playwright), GitHub Actions CI (including the firmware build) and Docker deployment
+
+**[Bouncr](https://github.com/Emad-Abouelsaad/bouncr)** - the digital bouncer for student events.
+A Flutter and Firebase app where student clubs publish events and attendees get server-signed QR tickets that are checked at the door: no fake tickets, no double entry, no overbooking.
+
+- Cloud Functions in TypeScript issue HMAC-signed tickets; optimistic concurrency control means 40 simultaneous RSVPs for 5 seats always give exactly 5 tickets
+- Firestore Security Rules: owner-only edits and tickets read-only for clients, proven by 21 emulator tests
+- Organiser door scanner with the camera, one-time check-in, offline-first saving
+- 74 automated tests on the Firebase Emulator Suite, GitHub Actions CI, protected main branch and reviewed pull requests
 
 ## Other projects
 
