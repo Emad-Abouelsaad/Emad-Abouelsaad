@@ -10,7 +10,8 @@ Computer Science (Cloud Computing) student at Akademia WSB, based in Poland. I b
 - **IoT and embedded:** ESP8266, sensors, relays, I2C
 - **DevOps and testing:** Git and GitHub, GitHub Actions (CI/CD), Docker, Firebase Emulator Suite, Security Rules tests, Flutter tests, Playwright, Vitest, pytest
 - **Systems and networking:** Linux, Active Directory, Azure AD, Cisco IOS, Packet Tracer, VLANs, OSPF, ACLs
-- **Data and ML:** Pandas, Scikit-learn, Matplotlib
+- **Data and ML:** Pandas, Scikit-learn, Matplotlib, PostgreSQL
+- **LLM serving:** OpenVINO Model Server, vLLM, inference benchmarking (TTFT, TPOT, throughput)
 
 ## Featured projects
 
@@ -33,6 +34,7 @@ A Flutter and Firebase app where student clubs publish events and attendees get 
 ## Other projects
 
 **Cloud**
+- **[LLM Inference Benchmark](https://github.com/Emad-Abouelsaad/llm-inference-benchmark):** runs an LLM in Docker with OpenVINO Model Server (CPU) or vLLM (GPU), measures time to first token and throughput under concurrent load with async Python, stores every run in PostgreSQL and runs weekly on GitHub Actions
 - **[Azure App Service CI/CD](https://github.com/Emad-Abouelsaad/azure-app-service-nodejs-deploy):** Node.js REST API deployed to Azure App Service with a GitHub Actions pipeline and passwordless OIDC sign-in
 - **[Flask REST API](https://github.com/Emad-Abouelsaad/flask-rest-api):** Python API ready for PaaS deployment with Gunicorn, health check, pytest tests and GitHub Actions CI
 - **[Serverless function](https://github.com/Emad-Abouelsaad/serverless-netlify-function):** Node.js Netlify Function (AWS Lambda) called from a static web page
