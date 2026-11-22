@@ -9,7 +9,7 @@ Computer Science (Cloud Computing) student at Akademia WSB, based in Poland. I b
 - **Cloud and backend:** Firebase (Firestore, Realtime Database, Authentication, Cloud Functions, Security Rules, Emulator Suite, Hosting), Azure (VMs, App Service, Functions, Cosmos DB, Data Factory), Netlify Functions (serverless), AWS basics
 - **IoT and embedded:** ESP8266, sensors, relays, I2C
 - **DevOps and testing:** Git and GitHub, GitHub Actions (CI/CD), Docker, Firebase Emulator Suite, Security Rules tests, Flutter tests, Playwright, Vitest, pytest
-- **Systems and networking:** Linux, Active Directory, Azure AD, Cisco IOS, Packet Tracer, VLANs, OSPF, ACLs
+- **Systems and networking:** Linux, Active Directory, Azure AD, Cisco IOS, Packet Tracer, IPv4 and IPv6 addressing and subnetting, VLANs, OSPF, ACLs, switch and router security
 - **Data and ML:** Pandas, Scikit-learn, Matplotlib, PostgreSQL
 - **LLM serving:** OpenVINO Model Server, vLLM, inference benchmarking (TTFT, TPOT, throughput)
 
@@ -50,9 +50,22 @@ A Flutter and Firebase app where student clubs publish events and attendees get 
 **Networking**
 - **Corporate network:** two-site enterprise network in Cisco Packet Tracer with VLANs, OSPF, ACLs and a GRE VPN
 
-## Certifications
+## Certifications and courses
 
-Microsoft Azure Data Fundamentals (DP-900), Cisco Networking Basics, Cisco Networking Devices and Initial Configuration, Cisco Network Addressing and Basic Troubleshooting, Cisco Network Support and Security, AWS Core Services Introduction, Linux Bootcamp, Git and GitHub Mastery
+**Cisco Networking Academy**
+- CCNA: Introduction to Networks (Nov 2026)
+- Network Support and Security (Sep 2026)
+- Network Addressing and Basic Troubleshooting (Sep 2026)
+- Networking Devices and Initial Configuration (May 2026)
+- Networking Basics (May 2026)
+- Getting Started with Cisco Packet Tracer (May 2026)
+
+**Cloud, Linux and DevOps**
+- Git and GitHub Mastery (Jan 2026)
+- AWS Core Services Introduction (Oct 2025)
+- Linux Bootcamp (Oct 2025)
+- Preparing for DP-900: Microsoft Azure Data Fundamentals, Microsoft course on Coursera (Jun 2025)
+- IT, Cloud, TCP/IP and DevOps Fundamentals (May 2025)
 
 ## Contact
 
