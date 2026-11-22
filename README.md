@@ -52,6 +52,8 @@ A Flutter and Firebase app where student clubs publish events and attendees get 
 
 ## Certifications and courses
 
+All certificates as PDFs, with IDs and verification links: **[Emad-Abouelsaad/certifications](https://github.com/Emad-Abouelsaad/certifications)**
+
 **Cisco Networking Academy**
 - CCNA: Introduction to Networks (Nov 2026)
 - Network Support and Security (Sep 2026)
@@ -60,7 +62,7 @@ A Flutter and Firebase app where student clubs publish events and attendees get 
 - Networking Basics (May 2026)
 - Getting Started with Cisco Packet Tracer (May 2026)
 
-**Cloud, Linux and DevOps**
+**Cloud, Linux and DevOps** (Coursera and DolfinED)
 - Git and GitHub Mastery (Jan 2026)
 - AWS Core Services Introduction (Oct 2025)
 - Linux Bootcamp (Oct 2025)
