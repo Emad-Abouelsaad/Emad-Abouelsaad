@@ -52,7 +52,7 @@ A Flutter and Firebase app where student clubs publish events and attendees get 
 
 ## Certifications and courses
 
-All certificates as PDFs, with IDs and verification links: **[Emad-Abouelsaad/certifications](https://github.com/Emad-Abouelsaad/certifications)**
+Credential IDs and verification links are on my [LinkedIn profile](https://www.linkedin.com/in/emad-abouelsaad/details/certifications/).
 
 **Cisco Networking Academy**
 - CCNA: Introduction to Networks (Nov 2026)
@@ -71,5 +71,5 @@ All certificates as PDFs, with IDs and verification links: **[Emad-Abouelsaad/ce
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/emad-abouelsaad](https://linkedin.com/in/emad-abouelsaad)
+- LinkedIn: [linkedin.com/in/emad-abouelsaad](https://www.linkedin.com/in/emad-abouelsaad)
 - Email: emadabouelsaad.pro@gmail.com
